@@ -31,8 +31,8 @@ Este é um projeto de um bot para Telegram desenvolvido em Python, projetado par
 
 1.  **Clone o Repositório (ou baixe os arquivos):**
     ```bash
-    git clone [https://github.com/SEU_USUARIO_GITHUB/NOME_DO_SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO_GITHUB/NOME_DO_SEU_REPOSITORIO.git)
-    cd NOME_DO_SEU_REPOSITORIO
+    git clone [https://github.com/valdemar100/bot_vendas.git](https://github.com/valdemar100/bot_vendas.git)
+    cd bot_vendas 
     ```
 
 2.  **Crie e Ative um Ambiente Virtual (Recomendado):**
@@ -107,8 +107,7 @@ Contribuições são bem-vindas! Se você tiver sugestões, correções de bugs 
 
 ## 📄 Licença
 
-Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes (você pode adicionar um arquivo LICENSE.md se desejar).
+Este projeto é distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+..
 
 ---
-
-*Lembre-se de substituir `SEU_USUARIO_GITHUB/NOME_DO_SEU_REPOSITORIO` pelo link real do seu repositório quando ele estiver no GitHub.*
