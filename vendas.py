@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- Configurações ---
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "7766885198:AAGlH8fCMvfzo644wl66hOd9T1oZB1-K30I") # Substitua ou use .env
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 DATABASE_FILE = "loja_bot.db"
 
 # Configuração de logging básico
